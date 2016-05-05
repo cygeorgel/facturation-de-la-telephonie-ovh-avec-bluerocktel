@@ -1,3 +1,3 @@
-# My Awesome Book
+# BlueRockTEL
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+BlueRockTEL est une solution complète de facturation des services de téléphonie : fonctions CRM, facturation récurrente des services, récupération automatique et facturation des communications, analyse détaillée des marches commerciales service par service.
