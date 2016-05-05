@@ -22,7 +22,7 @@ Cette partie sert à indiquer les éléments qui seront facturés de façon ponc
 * du matériel.
 
 Notons que vous pouvez ajouter des éléments à la facturation intiale à tout moment au cours de la vie du dossier : ils seront automatiquement pris en compte dans la prochaine échéance de facturation.
-## Éléments donnant lieu à facturation récurrentes
+## Éléments donnant lieu à facturation récurrente
 Dans cette partie, on rensignera tous les services qui doivent être facturés périodiquement, notamment services xDSL et ligne téléphonique.
 Chaque service est rattaché à un article, qui détermine à la fois le prix auquel il sera facturé et son mode de facturation. Pour une ligne teléphonique, on précisera la ligne rattachée, ainsi qu'une description. La description sera reprise sur la facture, de façon à donner une information plus claire au client. Il est également possible de préciser un libellé pour chaque service.
 ### Les dates
