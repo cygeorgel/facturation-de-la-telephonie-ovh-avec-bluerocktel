@@ -8,4 +8,4 @@ Le système permet un suivi et une mise à jour faciles des échéances.
 ## "Échéances autonomes"
 Les utilisateurs de notre solution souhaitaient pouvoir suivre aussi facilement les échéances de factures qu'ils n'avaient pas la possibilité de générer avec BlueRockTEL. Les "échéances autonomes" répondent parfaitement à cette attente.
 
-Vous pouvez créer un échéancier à partir de la fiche client, en précisant la nature de l'échéance, sa fréquence et éventuellement son montant. En fonction de la périodicité précisée, le système genérera les échéances correspondantes, qui apparaîtront dans le suivi de recouvrement.
+Vous pouvez créer un échéancier à partir de la fiche client, en précisant la nature de l'échéance, sa fréquence et éventuellement son montant. En fonction de la périodicité précisée, le système genérera les échéances correspondantes, qui apparaîtront alors dans le suivi de recouvrement.
