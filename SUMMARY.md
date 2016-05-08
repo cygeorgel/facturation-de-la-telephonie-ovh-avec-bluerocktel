@@ -9,4 +9,5 @@
 * [Les fichiers de prélèvements SEPA](les_fichiers_de_prelevements_sepa.md)
 * [Contrôle des échéances, recouvrement](controle_des_echeances,_recouvrement.md)
 * [Telephony Analytics](telephony_analytics.md)
+* Les éditions de contrôle
 
