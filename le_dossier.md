@@ -31,5 +31,10 @@ Chaque service est rattaché à un article, qui détermine à la fois le prix au
 ### Les dates
 On pourra préciser pour chaque service une date de commencement et une date de fin, qui seront prise en compte lors du process de facturation.
 ## Base de refacturation du dossier
-Ici seront précisés, soit un taux de refacturation, soit un prix par minute, pour chaque catégorie d'appels : numéros fixes, numéros mobiles, numéros spéciaux.
+Ici seront précisés :
+* soit un taux de refacturation,
+* soit un prix par minute,
+et ce pour chaque catégorie d'appels : numéros fixes, numéros mobiles, numéros spéciaux.
+
+En effet, certains utilisateurs de BlueRockTEL facturent leurs clients en fonction de ce qui est facturé par OVH (en appliquant un certain coefficient), alors que d'autres déconnectent totalement leur propre facturation de la facturation d'OVH. Vous ferez votre choix en fonction de votre stratégie d'entreprise, en sachant que BlueRockTEL vous permet la plus grande latitude à ce sujet. C'est même un réglage que vous pouvez effectuer au niveau de chaque client, voire même au niveau de chaque dossier.
 
