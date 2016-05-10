@@ -1,6 +1,6 @@
 # Le dossier
 
-Le dossier est l'élément de base de la facturation récurrente. Il est important de compléter le dossier avec attention pour que la facturation se déroule ensuite sans difficuté.
+**Le dossier est l'élément de base de la facturation récurrente**. Il est important de compléter le dossier avec attention pour que la facturation se déroule ensuite sans difficuté.
 
 BlueRockTEL permet de créér autant de dossiers qu'il est nécessaires pour un même client : cela permettra par exemple de distinguer plusieurs sites. La facturation s'effectuera par rapport au dossier : il y aura donc autant de factures par client qu'il y a de dossiers actifs.
 
