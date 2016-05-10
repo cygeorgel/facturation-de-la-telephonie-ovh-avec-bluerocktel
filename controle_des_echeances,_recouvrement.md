@@ -1,8 +1,8 @@
 # Contrôle des échéances, recouvrement
 
-BlueRockTEL vous permet d'afficher en un clic la liste des échéances en attente de règlement.
+[**BlueRockTEL**](http://bluerocktel.com) vous permet d'afficher en un clic la liste des échéances en attente de règlement.
 
-Les échéances payées par prélèvement bancaire sont réputées "réglées" dès lors qu'elles sont intégrées à un fichier de prélèvements SEPA. Pour les autres modes de règlement (chèque, virement, ...) vous devrez indiquer le règlement au niveau de l'échéance.
+**Les échéances payées par prélèvement bancaire sont réputées "réglées"** dès lors qu'elles sont intégrées à un fichier de prélèvements SEPA. **Pour les autres modes de règlement**, en revanche, (chèque, virement, ...) vous devrez indiquer le règlement au niveau de l'échéance.
 
 Le système permet un suivi et une mise à jour faciles des échéances.
 ## "Échéances autonomes"
