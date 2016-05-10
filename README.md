@@ -4,4 +4,4 @@
 
 [**OVH**](https://www.ovhtelecom.fr/) propose **des offres de téléphonie dédiées aux professionnels**, caractérisées à la fois par des prix compétitifs et des fonctionnalités innovantes.
 
-Bien qu'elle puisse intégrer et traiter les CDR (*call detail record*) de divers fournisseurs de VoIP, **la solution BlueRockTEL est particulièrement bien adaptée à la gestion des offres de téléphonie d'OVH**.
+Bien qu'elle puisse intégrer et traiter les CDR (*Call Detail Records*) de divers fournisseurs de VoIP, **la solution BlueRockTEL est particulièrement bien adaptée à la gestion des offres de téléphonie d'OVH**.
