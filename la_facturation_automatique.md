@@ -1,6 +1,6 @@
 # La facturation automatique
 
-Une fois les CDR intégrés, BlueRockTEL est prêt à lancer la facturation automatique, conformément à ce qui est renseigné dans les dossiers.
+Une fois les CDR intégrés, [**BlueRockTEL**](http://bluerocktel.com) est prêt à lancer la facturation automatique, conformément à ce qui est renseigné dans les dossiers.
 
 Dans un premier temps, tous les appels de la période sont analysé afin de déterminer de quelle façon ils doivent être facturés. Au cours d'une seconde étape, le prix auquel est facturé chaque appel est calculé, et stocké dans la base de données. 
 
