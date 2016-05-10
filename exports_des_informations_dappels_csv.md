@@ -15,9 +15,9 @@ Une fois ces paramètres entrés, **les nouveaux fichiers CSV seront déposés c
 
 À noter que vous pouvez utiliser :
 * soit un espace FTP appartenant à votre client,
-* soit mettre vous-mêmes un serveur FTP à la disposition de vos clients.
+* soit mettre vous-même un serveur FTP à la disposition de vos clients.
 
-Dans ce cas, nous vous fournirons un script à installer sur votre serveur FTP, qui synchronisera automatiquement les comptes FTP avec les informations entrées dans BlueRockTEL, de telle sorte que vous n'ayiez pas à saisir les mêmes informations à deux reprises.
+Dans ce dernier cas, nous vous fournirons un script à installer sur votre serveur FTP, qui synchronisera automatiquement les comptes FTP avec les informations entrées dans BlueRockTEL, de telle sorte que vous n'ayiez pas à saisir les mêmes informations à deux reprises.
 
 Bien entendu, nous pouvons également, si vous le souhaitez, nous charger de la fourniture et de la maintenance du serveur FTP.
 
