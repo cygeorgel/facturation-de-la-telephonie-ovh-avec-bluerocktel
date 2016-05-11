@@ -29,12 +29,18 @@ De façon très classique, on trouve en entête le numéro de facture, les dates
 * coût de l'appel.
 
 
+---
 
 
 ![](invoiceSample01Blur.jpg)
 
 
+---
+
+
 ![](invoiceSample02Blur.jpg)
+
+---
 
 
 ![](invoiceSample03Blur.jpg)
