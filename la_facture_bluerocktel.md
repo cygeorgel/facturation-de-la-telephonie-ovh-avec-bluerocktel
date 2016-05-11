@@ -29,6 +29,8 @@ Enfin, **le détail complet des consommations**, qui reprend tous les appels de 
 * coût de l'appel.
 
 
+
+
 ![](invoiceSample01Blur.jpg)
 
 
