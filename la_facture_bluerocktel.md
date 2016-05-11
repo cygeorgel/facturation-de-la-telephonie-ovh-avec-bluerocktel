@@ -16,13 +16,13 @@ De façon très classique, on trouve en entête le numéro de facture, les dates
 
 
 
-On trouve en deuxième partie **un résumé, ligne par ligne, du détail des consommations** : cette présentation synthétique permet de voir en un coup d'oeil le temps de communication et le montant facturé pour chaque catégorie d'appels :
+**On trouve en deuxième partie un résumé, ligne par ligne, du détail des consommations** : cette présentation synthétique permet de voir en un coup d'oeil le temps de communication et le montant facturé pour chaque catégorie d'appels :
 * communications vers les fixes,
 * communications vers les mobiles,
 * communications vers les numéros spéciaux,
 * communications vers l'international.
 
-Enfin, **le détail complet des consommations**, qui reprend tous les appels de la période facturée, avec les informations suivantes :
+**Enfin, le détail complet des consommations**, qui reprend tous les appels de la période facturée, avec les informations suivantes :
 * date et heure
 * durée,
 * numéro appelé,
