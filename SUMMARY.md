@@ -10,5 +10,5 @@
 * [Contrôle des échéances, recouvrement](controle_des_echeances,_recouvrement.md)
 * [Telephony Analytics](telephony_analytics.md)
 * [Exports des informations d'appels (CSV)](exports_des_informations_dappels_csv.md)
-* Contact
+* [Contact](contact.md)
 
