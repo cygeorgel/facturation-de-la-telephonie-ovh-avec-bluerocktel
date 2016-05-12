@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Les enjeux](les_enjeux.md)
-   * Export des dossiers et analyse du récurrent
 * [La fiche client](la_fiche_client.md)
 * [Le dossier](le_dossier.md)
 * [L'intégration des CDR](lintegration_des_cdr.md)
@@ -11,6 +10,7 @@
 * [Les fichiers de prélèvements SEPA](les_fichiers_de_prelevements_sepa.md)
 * [Contrôle des échéances, recouvrement](controle_des_echeances,_recouvrement.md)
 * [Journaux des ventes](journaux_des_ventes.md)
+* Export des dossiers et analyse du récurrent
 * [Telephony Analytics](telephony_analytics.md)
 * [Exports des informations d'appels (CSV)](exports_des_informations_dappels_csv.md)
 * [Informations pratiques](informations_pratiques.md)
