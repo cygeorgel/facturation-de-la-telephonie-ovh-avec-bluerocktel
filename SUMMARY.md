@@ -9,7 +9,7 @@
 * [La facture BlueRockTEL](la_facture_bluerocktel.md)
 * [Les fichiers de prélèvements SEPA](les_fichiers_de_prelevements_sepa.md)
 * [Contrôle des échéances, recouvrement](controle_des_echeances,_recouvrement.md)
-* Le journal des ventes
+* Journaux des ventes
 * [Telephony Analytics](telephony_analytics.md)
 * [Exports des informations d'appels (CSV)](exports_des_informations_dappels_csv.md)
 * [Informations pratiques](informations_pratiques.md)
