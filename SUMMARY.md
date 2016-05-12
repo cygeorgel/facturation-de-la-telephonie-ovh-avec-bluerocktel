@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Les enjeux](les_enjeux.md)
+   * Export des dossiers et analyse du récurrent
 * [La fiche client](la_fiche_client.md)
 * [Le dossier](le_dossier.md)
 * [L'intégration des CDR](lintegration_des_cdr.md)
