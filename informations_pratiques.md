@@ -10,8 +10,8 @@ BlueRock Media Ltd
 
 Dublin 2 (Ireland)
 
-Cyrille Georgel
+**Cyrille Georgel**
 
-cyrille@bluerock-ltd.com
+**cyrille@bluerock-ltd.com**
 
 
