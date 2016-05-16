@@ -1,24 +1,25 @@
 # Export des dossiers et analyse du récurrent
 
 ## Export des dossiers
-L'export des dossiers est particulièrement utile au moment de contrôler la facture de pré-production et avant de lancer la facturation définitive, car il permet de contrôler rapidement la cohérence de l'ensemble.
+
+L'export des dossiers est particulièrement utile dans les étapes de préparation de la facturation. Il permet notamment de contrôler rapidement la cohérence d'un jeu de facturation, par exemple après la facturation de pré-production et avant de lancer la facturation définitive.
 
 L'export se présente sous la forme d'un fichier Excel, présentant les informations suivantes :
-* Compte client,
-* Raison sociale,
-* Non et prénom du contact principal,
-* Représentant en charge du dossier,
-* Adresse email principale,
-* Adresse email comptable,
-* Numéro de dossier,
-* Montant hors taxe du récurrent,
-* Nombre de factures,
-* Total TTC de l'ensemble des factures,
-* Montant TTC de l'avant dernière facture,
-* Montant TTC de la dernière facture,
-* Net à payer de la dernière facture,
-* Mode de paiement,
-* IBAN et BIC du compte sur lequel le prélèvement va être effectué.
+
+* la raison sociale, les nom et prénom du contact principal et les coordonnées de l'entreprise cliente,
+* le numéro du dossier et son statut,
+* le montant hors taxe du récurrent,
+* le nombre de factures émises pour le dossier,
+* le total toutes taxes comprises de l'ensemble des factures, 
+* le montant toutes taxes comprises de l'avant dernière facture,
+* le montant toutes taxes comprises de la dernière facture, ainsi que le Net à payer,
+* le mode de paiement,
+* l'IBAN et le BIC du compte sur lequel le prélèvement sera émis.
+
+Les montants sont présentés incluant les taxes, cet export servant également à contrôler la remise des échéances en banque.
+
+
+
 
 ## Export du récurrent
 
