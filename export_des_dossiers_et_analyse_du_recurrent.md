@@ -34,6 +34,6 @@ Revendeur des solutions de téléphonie OVH, il vous importe de savoir sur quels
 * les prix d'achat du service et des consommations ainsi que le total,
 * les prix de vente du service et des consommations ainsi que le total,
 * la marge réalisée sur le service, sur les consommations, ainsi que le total,
-* enfin, un "code suivi" permet d'indiquer s'il y a lieu ou non de corriger, en cas d'anomalie : par exemple, si vous maintenez volontairement une situation déficitaire sur un service.
+* enfin, un "code suivi" permet d'indiquer s'il y a lieu ou non de corriger, en cas d'anomalie : il se peut, par exemple, que vous mainteniez volontairement une situation déficitaire sur un service.
 
 L'export du récurrent contient également le nom du commercial en charge du dossier, ce qui permet à la personne concernée de prendre les mesures de correction, le cas échéant.
