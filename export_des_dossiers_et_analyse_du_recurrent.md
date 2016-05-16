@@ -12,11 +12,13 @@ L'export se présente sous la forme d'un fichier Excel, présentant les informat
 * le nombre de factures émises pour le dossier,
 * le total toutes taxes comprises de l'ensemble des factures, 
 * le montant toutes taxes comprises de l'avant dernière facture,
-* le montant toutes taxes comprises de la dernière facture, ainsi que le Net à payer,
+* le montant toutes taxes comprises de la dernière facture, ainsi que le net à payer,
 * le mode de paiement,
 * l'IBAN et le BIC du compte sur lequel le prélèvement sera émis.
 
-Les montants sont présentés incluant les taxes, cet export servant également à contrôler la remise des échéances en banque.
+Les montants sont présentés incluant les taxes parce que cet export s'inscrit dans la logique de préparation de la facturation et de la remise des échéances en banque.
+
+
 
 
 
