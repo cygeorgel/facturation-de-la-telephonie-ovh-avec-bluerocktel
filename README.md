@@ -1,5 +1,5 @@
 # BlueRockTEL
-Vous êtes **revendeur des solutions de téléphonie OVH** et à la recherche d'**une solution de facturation performante** pour ces services ? 
+Vous êtes **revendeur de la téléphonie OVH** et à la recherche d'**une solution de facturation performante** pour ces services ? 
 
 [**BlueRockTEL**](http://bluerocktel.com/) est **une solution complète de facturation des services de téléphonie** : fonctions CRM, facturation récurrente des services, récupération automatique et facturation des communications, analyse détaillée des marches commerciales service par service. La solution BlueRockTEL est proposée en mode SaaS.
 
