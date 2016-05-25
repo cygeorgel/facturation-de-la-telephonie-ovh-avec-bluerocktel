@@ -7,6 +7,10 @@ Vous êtes **revendeur de la téléphonie OVH** et à la recherche d'**une solut
 
 Bien qu'elle puisse intégrer et traiter les CDR (*Call Detail Records*) de divers fournisseurs de VoIP, **la solution BlueRockTEL est particulièrement bien adaptée à la gestion des offres de téléphonie d'OVH**.
 
+[**BlueRockTEL**](http://bluerocktel.com/) est partenaire OVH.
+
+![](web-community.png)
+
 
 
 
