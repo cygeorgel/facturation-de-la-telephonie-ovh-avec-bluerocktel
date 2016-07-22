@@ -71,7 +71,3 @@ Cette méthode se comporte comme la méthode voiceIF. On y ajoute 3 heures vers 
 
 Cette méthode vous permet de refacturer le client final en vous calquant sur ce qu'OVH vous facture, en appliquant en coefficient multiplicateur à préciser dans le dossier. À noter qu'il vous est possible de préciser un coefficient différent pour chaque type d'appels \(fixes, mobiles, spéciaux\).
 
-Les appels vers les fixes compris dans la limite de 99 numéros appelés par mois.
-
-voiceIF : free calls to landLines \(to 99 different numbers\) voiceIM : free calls to landLines and mobiles \(to 99 different numbers + 99 different numbers\) ecofax : pages trunkSIP : 99 different numbers x the number of channels for the line VoiceCpt : all calls are charged LandPlus3h : voiceIF + 3 hours to mobiles \(including transfers, the number of different called numbers DOESN'T matter\) refact : we multiply the priceWithoutVAT by a rate defined in the client file.
-
