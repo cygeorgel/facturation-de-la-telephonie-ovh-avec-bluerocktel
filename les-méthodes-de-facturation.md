@@ -17,7 +17,7 @@ Les appels au-delà de 99 numéros par mois sont facturés à la seconde, au pri
 
 Les appels d'une durée supérieure à une heure sont facturés à la seconde, au prix fixé dans le dossier du client et à partir d'une heure.
 
-### Appels vers les autres numéros  :
+### Appels vers les autres numéros :
 
 Les appels vers les autres numéros  ont facturés à la seconde, au prix fixé dans le dossier du client.
 
