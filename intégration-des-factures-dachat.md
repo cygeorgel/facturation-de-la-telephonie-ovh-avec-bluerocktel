@@ -1,14 +1,10 @@
 # Intégration des factures d'achat \(OVH\)
 
-Blue
+[**BlueRockTEL**](http://bluerocktel.com/) es
 
 ![](/assets/bills.png)
 
-
-
 ![](/assets/billsForMonth.png)
-
-
 
 ![](/assets/billDetail.png)
 
