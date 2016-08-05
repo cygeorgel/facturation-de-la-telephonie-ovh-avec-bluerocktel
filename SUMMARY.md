@@ -14,5 +14,6 @@
 * [Export des dossiers et analyse du récurrent](export_des_dossiers_et_analyse_du_recurrent.md)
 * [Telephony Analytics](telephony_analytics.md)
 * [Exports des informations d'appels \(CSV\)](exports_des_informations_dappels_csv.md)
-* Les méthodes de facturation
+* [Les méthodes de facturation](les-méthodes-de-facturation.md)
+* [Intégration des factures d'achat](intégration-des-factures-dachat.md)
 
